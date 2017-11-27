@@ -9,7 +9,7 @@ Partial Refund
 ===================================================
 """,
     'website': 'www.aktivsoftware.com',
-    'author': 'Aktivsoftware',
+    'author': 'Aktiv software',
     'maintainer': 'Aktivsoftware',
     'depends': ['account'],
     'data': [
