@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from odoo import models, api, fields, tools, _
-from odoo.exceptions import ValidationError
+from openerp import models, api, fields, tools, _
+from openerp.exceptions import ValidationError
 
 
 class InvoiceRefundLine(models.TransientModel):
