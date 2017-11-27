@@ -1,7 +1,7 @@
 Account Partial Refund
 ------------------------------------
 
-Odoo Version : Odoo 10.0 Community for master
+Odoo Version : Odoo 10.0 Community
 
 Installation 
 -------------------------------------
