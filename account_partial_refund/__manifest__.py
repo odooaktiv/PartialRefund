@@ -17,7 +17,7 @@ Partial Refund
         'wizard/account_invoice_refund_view.xml',
     ],
 
-    'images':  ['static/description/banner.jpg'],
+    'images': ['static/description/banner.jpg'],
     'installable': True,
     'application': True,
     'auto_install': False,
