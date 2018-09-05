@@ -10,6 +10,7 @@ Partial Refund
 """,
     'website': 'www.aktivsoftware.com',
     'author': 'Aktiv software',
+    'license': "AGPL-3",
     'maintainer': 'Aktiv software',
     'depends': ['account'],
     'data': [
