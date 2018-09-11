@@ -2,7 +2,8 @@
 
 {
     'name': 'Partial Refund',
-    'version': '1.0',
+    'version': '09.0.1.0.0',
+    'license': 'AGPL-3',
     'category': 'account',
     'description': """
 Partial Refund
