@@ -2,7 +2,8 @@
 
 {
     'name': 'Partial Refund',
-    'version': '09.0.1.0.0',
+    'version': '9.0.1.0.0',
+    'summary': 'In this module we will manage the product refund quantity of the invoice.',
     'license': 'AGPL-3',
     'category': 'account',
     'description': """
@@ -11,8 +12,6 @@ Partial Refund
 """,
     'website': 'www.aktivsoftware.com',
     'author': 'Aktiv software',
-    'license': "AGPL-3",
-    'maintainer': 'Aktivsoftware',
     'depends': ['account'],
     'data': [
         'views/account_invoice_view.xml',
