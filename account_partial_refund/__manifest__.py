@@ -4,7 +4,7 @@
     'name': 'Partial Refund',
     'version': '10.0.1.0.0',
     'summary': 'In this module we will manage the product refund quantity of the invoice.',
-    'category': 'account',
+    'category': 'Accounting',
     'license': 'AGPL-3',
     'description': """
 Partial Refund
